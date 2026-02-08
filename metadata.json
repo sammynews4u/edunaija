@@ -1,0 +1,8 @@
+{
+  "name": "EduNaija Prep",
+  "description": "Premium Nigerian Exam Success Platform for WAEC, NECO, and JAMB.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
